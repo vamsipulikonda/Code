@@ -1,4 +1,4 @@
-"""sort the input elements as (max1,min1,max2,min2....maxn,minn)"""
+"""order the input elements as (max1,min1,max2,min2....maxn,minn)"""
 
 n=sorted([int(i) for i in input().split()])
 temp=[]
